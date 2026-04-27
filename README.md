@@ -3,8 +3,8 @@
 The project focuses on analyzing Zomato data to extract meaningful insights related to restaurants, ratings, pricing, locations, and customer trends. It demonstrates a complete analytics workflow—from raw data exploration to final business-ready insights.
 
 🛠 Tools & Technologies
-SQL – Data extraction, cleaning, and transformation
-Power BI – Interactive dashboards and visual analytics
+#SQL – Data extraction, cleaning, and transformation
+#Power BI – Interactive dashboards and visual analytics
 Tableau – Advanced data visualization and storytelling
 Microsoft Excel – Exploratory analysis and pivot-based insights
 PowerPoint (PPT) – Final presentation summarizing key findings
